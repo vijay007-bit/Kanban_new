@@ -14,8 +14,8 @@
 
 ## Technical Details
 
-- Implemented as a modern NextJS app, client rendered
-- The NextJS app should be created in a subdirectory `frontend`
+- Implemented as a modern NodeJS app, client rendered
+- The NodeJS app should be created in a subdirectory `frontend`
 - No persistence
 - No user management for the MVP
 - Use popular libraries
@@ -39,5 +39,6 @@
 ## Coding standards
 
 1. Use latest versions of libraries and idiomatic approaches as of today
-2. Keep it simple - NEVER over-engineer, ALWAYS simplify, NO unnecessary defensive programming. No extra features - focus on simplicity.
-3. Be concise. Keep README minimal. IMPORTANT: no emojis ever
+2. Use MVVM architecture with following solid principle 
+3. Keep it simple - NEVER over-engineer, ALWAYS simplify, NO unnecessary defensive programming. No extra features - focus on simplicity.
+4. Be concise. Keep README minimal. IMPORTANT: no emojis ever
